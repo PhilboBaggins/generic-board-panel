@@ -10,7 +10,10 @@ TODO: Add photo
 
 ## Assembly
 
-TODO: Document this
+Assembly consists of two parts:
+
+* [Assembling the panel and stand](Assembly/Assembling%20the%20panel%20and%20stand)
+* [Installing PCBs and covers](Assembly/Installing%20PCBs%20and%20covers)
 
 ## Design notes
 
@@ -20,3 +23,7 @@ TODO: Document this
 ## Related projects
 
 * Boxes for the same size PCBs: <https://github.com/PhilboBaggins/generic-board-box>
+
+## TODO
+
+* TODO: Decrease width (Y dimension) of stands (they don't need to be 12 mm just because the timber is) -- 10 mm is probably fine.. maybe even thinner (cheaper to print)
