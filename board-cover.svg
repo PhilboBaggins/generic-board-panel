@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="148mm"
+   viewBox="0 0 210 148"
+   version="1.1"
+   id="svg10502"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="100x100 panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10504"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.087256"
+     inkscape:cx="386.75343"
+     inkscape:cy="152.67793"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="755"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs10499" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path7852-1"
+       style="fill:#0000ff;stroke:none;stroke-width:0.381212"
+       d="M 5.00021,0 A 5,5 0 0 0 0,5.0002112 V 94.999882 a 5,5 0 0 0 5.00021,5.000218 h 89.99968 a 5,5 0 0 0 5.00021,-5.000218 V 5.0002112 A 5,5 0 0 0 94.99989,0 Z" />
+    <circle
+       style="fill:#ff0000;stroke:none;stroke-width:0.573017"
+       id="path8553"
+       cx="5"
+       cy="5"
+       r="1.75" />
+    <circle
+       style="fill:#ff0000;stroke:none;stroke-width:0.573017"
+       id="path8553-9"
+       cx="5"
+       cy="94.999992"
+       r="1.75" />
+    <circle
+       style="fill:#ff0000;stroke:none;stroke-width:0.573017"
+       id="path8553-5"
+       cx="95"
+       cy="5"
+       r="1.75" />
+    <circle
+       style="fill:#ff0000;stroke:none;stroke-width:0.573017"
+       id="path8553-0"
+       cx="95"
+       cy="94.999992"
+       r="1.75" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="104.86771"
+       y="8.7782526"
+       id="text11445"><tspan
+         sodipodi:role="line"
+         id="tspan11443"
+         style="font-size:5.29167px;fill:#ffff00;stroke-width:0.264583"
+         x="104.86771"
+         y="8.7782526">## Laser notes</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#ffff00;stroke-width:0.264583"
+         x="104.86771"
+         y="15.392839"
+         id="tspan11449">* Blue - Cut outside path (outer shape)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#ffff00;stroke-width:0.264583"
+         x="104.86771"
+         y="22.007427"
+         id="tspan11453">* Red - Cut outside path (mounting holes)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.29167px;fill:#ffff00;stroke-width:0.264583"
+         x="104.86771"
+         y="28.622015"
+         id="tspan11455">* Yellow - Notes only</tspan></text>
+  </g>
+</svg>

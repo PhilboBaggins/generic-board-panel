@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="148mm"
+   viewBox="0 0 210 148"
+   version="1.1"
+   id="svg6805"
+   sodipodi:docname="board-holder-panel-single-with-border.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6807"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.087256"
+     inkscape:cx="395.95091"
+     inkscape:cy="232.69589"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="755"
+     inkscape:window-y="1072"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs6802" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="129.87653"
+       y="8.5263672"
+       id="text11445-3"><tspan
+         sodipodi:role="line"
+         id="tspan11443-0"
+         style="font-size:4.93889px;fill:#ffff00;stroke-width:0.264583"
+         x="129.87653"
+         y="8.5263672">## Laser notes</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;fill:#ffff00;stroke-width:0.264583"
+         x="129.87653"
+         y="14.69998"
+         id="tspan11449-0">* Blue - Cut along path (outer shape)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;fill:#ffff00;stroke-width:0.264583"
+         x="129.87653"
+         y="20.873592"
+         id="tspan11453-4">* Red - Cut along path (PCB mounting holes)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;fill:#ffff00;stroke-width:0.264583"
+         x="129.87653"
+         y="27.047205"
+         id="tspan36394">* Purple - Cut along path (panel mounting holes)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.93889px;fill:#ffff00;stroke-width:0.264583"
+         x="129.87653"
+         y="33.220818"
+         id="tspan11455-1">* Yellow - Notes only</tspan></text>
+    <path
+       id="path7852-7"
+       style="fill:#0000ff;stroke:none;stroke-width:0.381212"
+       d="m 0,0 v 14.00018 97.9997 1.99988 12.0003 H 126.00006 V 0 H 14.000179 Z m 23.000146,18.00045 h 80.000284 a 5,5 0 0 0 4.9997,4.99969 v 80.00029 a 5,5 0 0 0 -4.9997,4.99969 H 23.000146 a 5,5 0 0 0 -4.999694,-4.99969 V 23.00014 a 5,5 0 0 0 4.999694,-4.99969 z" />
+    <g
+       id="g26206-7"
+       transform="translate(3.0000003,2.99985)">
+      <circle
+         style="fill:#ff0000;stroke:none;stroke-width:0.573017"
+         id="path8553-00-5"
+         cx="15"
+         cy="15"
+         r="1.75" />
+      <circle
+         style="fill:#ff0000;stroke:none;stroke-width:0.573017"
+         id="path8553-9-5-0"
+         cx="15"
+         cy="105"
+         r="1.75" />
+      <circle
+         style="fill:#ff0000;stroke:none;stroke-width:0.573017"
+         id="path8553-5-0-1"
+         cx="105"
+         cy="15"
+         r="1.75" />
+      <circle
+         style="fill:#ff0000;stroke:none;stroke-width:0.573017"
+         id="path8553-0-0-0"
+         cx="105"
+         cy="105"
+         r="1.75" />
+    </g>
+    <g
+       id="g36229"
+       transform="translate(0,-150.00015)">
+      <circle
+         style="fill:#ff00ff;stroke:none;stroke-width:0.573017"
+         id="path8553-00-4-0-96"
+         cx="6.0000067"
+         cy="156"
+         r="1.75" />
+      <circle
+         style="fill:#ff00ff;stroke:none;stroke-width:0.573017"
+         id="path8553-9-5-4-0-94"
+         cx="6.0000067"
+         cy="270"
+         r="1.75" />
+      <circle
+         style="fill:#ff00ff;stroke:none;stroke-width:0.573017"
+         id="path8553-00-4-0-9-7"
+         cx="120.00001"
+         cy="156"
+         r="1.75" />
+      <circle
+         style="fill:#ff00ff;stroke:none;stroke-width:0.573017"
+         id="path8553-9-5-4-0-8-18"
+         cx="120.00001"
+         cy="270"
+         r="1.75" />
+    </g>
+  </g>
+</svg>
